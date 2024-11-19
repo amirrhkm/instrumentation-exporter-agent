@@ -1,2 +1,1 @@
-Application Instrumentation using OpenTelemet
-ry SDK in GoLang utilising OpenTelemetry's Go SDK
+Application Instrumentation using OpenTelemetry SDK in GoLang utilising OpenTelemetry's Go SDK
